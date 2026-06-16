@@ -167,7 +167,7 @@ I'm always shipping something new, check back often.
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=Cloudregh&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Cloudregh&theme=radical&hide_border=true&background=0D1117" width="48%"/>
+<img src="https://streak-stats.demolab.com/?user=Cloudregh&theme=radical&hide_border=true&background=0D1117" width="48%"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cloudregh&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" width="48%"/>
 
