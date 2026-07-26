@@ -23,6 +23,12 @@ Lately that means two things. First, weaving AI into both my creative process an
 
 Design and development aren't separate disciplines for me, they're the same craft seen from two angles.
 
+- 🔍 Currently building **CodeAudit AI** — instant AI code-quality reports for any public GitHub repo
+- 🌱 Shipped **FarmConnect Ghana** — an AI-assisted marketplace connecting Ghanaian farmers directly to buyers
+- 🧠 Going deeper on machine learning — moving from consuming model APIs to training and deploying my own
+- 💬 Ask me about React + TypeScript, serverless backends, or getting an LLM to return structured output reliably
+- 🎯 Open to fullstack and AI engineering roles
+
 <br/>
 
 ## 🎯 What I Do
@@ -112,6 +118,8 @@ An AI-powered agricultural marketplace connecting Ghanaian farmers directly with
 
 `React` `TypeScript` `Tailwind CSS` `Shadcn/Radix`
 
+**What I solved:** designing for low-bandwidth mobile users and meeting them on the channel they already use (WhatsApp) instead of forcing a payment flow they don't trust.
+
 </td>
 <td width="50%" valign="top">
 
@@ -137,6 +145,8 @@ A pixel-precise, scroll-animated recreation of Apple's iPhone 15 Pro site, featu
 An AI-powered tool that generates instant code quality reports for any public GitHub repository. Built for the Orion Build Challenge 2026.
 
 `React` `Gemini AI` `Vercel Serverless` `GitHub API`
+
+**What I solved:** designing prompts that return consistently parseable structured output, and keeping the whole analysis inside a serverless function's execution limits.
 
 </td>
 </tr>
@@ -172,6 +182,22 @@ I'm always shipping something new, check back often.
 <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Cloudregh&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" width="48%"/>
 
 </div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Cloudregh/Cloudregh/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+
+</div>
+
+<br/>
+
+## 🧭 What I'm Working Toward
+
+I'm deliberately moving up the stack, from using AI models to building them, currently working through the fundamentals of supervised learning, model evaluation, and deployment, with the goal of shipping an end-to-end ML project trained on Ghanaian agricultural data.
+
+If you're working on something at the intersection of web engineering and applied AI, I'd like to hear about it.
 
 <br/>
 
