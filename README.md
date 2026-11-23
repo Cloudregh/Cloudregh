@@ -123,4 +123,125 @@ Motion & scroll animation<br/>
 
 **Motion, Animation & 3D**
 
-![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=
+![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black)
+![Framer Motion](https://img.shields.io/badge/Framer%20Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
+
+**Design Suite**
+
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Framer](https://img.shields.io/badge/Framer-0055FF?style=for-the-badge&logo=framer&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
+![After Effects](https://img.shields.io/badge/After%20Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white)
+
+<br/>
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🌱 [FarmConnect Ghana](https://github.com/Cloudregh/farmconnect-ghana)
+An AI-powered agricultural marketplace connecting Ghanaian farmers directly with buyers, complete with an AI farming advisor, seller dashboard, and WhatsApp checkout.
+
+`React` `TypeScript` `Tailwind CSS` `Shadcn/Radix`
+
+**What I solved:** designing for low-bandwidth mobile users and meeting them on the channel they already use (WhatsApp) instead of forcing a payment flow they don't trust.
+
+</td>
+<td width="50%" valign="top">
+
+### 👠 [Velvet Steps](https://github.com/Cloudregh/Velvet-Steps)
+A luxury e-commerce landing page for an exclusive footwear boutique, built around elegant typography, micro-animations, and a premium shopping feel.
+
+`React 19` `Vite` `Tailwind CSS 4`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📱 [iPhone 15 Pro Clone](https://github.com/Cloudregh/iphone)
+A pixel-precise, scroll-animated recreation of Apple's iPhone 15 Pro site, featuring a custom video carousel and GSAP ScrollTrigger animations.
+
+`React 19` `GSAP` `ScrollTrigger` `Tailwind CSS`
+
+</td>
+<td width="50%" valign="top">
+
+### 🔍 [CodeAudit AI](https://github.com/Cloudregh/codeaudit-ai)
+An AI-powered tool that generates instant code quality reports for any public GitHub repository. Built for the Orion Build Challenge 2026.
+
+`React` `Gemini AI` `Vercel Serverless` `GitHub API`
+
+**What I solved:** designing prompts that return consistently parseable structured output, and keeping the whole analysis inside a serverless function's execution limits.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📝 [Nexa Extension](https://github.com/Cloudregh/Nexa-Extension) <sub>(Contributor)</sub>
+A simple app that helps students capture and organize notes from online lectures and videos.
+
+`TypeScript`
+
+</td>
+<td width="50%" valign="top">
+
+<br/>
+
+**More builds in progress.**<br/>
+I'm always shipping something new, check back often.
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Cloudregh&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" width="48%"/>
+<img src="https://streak-stats.demolab.com/?user=Cloudregh&theme=radical&hide_border=true&background=0D1117&cache=bypass1" width="48%"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cloudregh&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" width="48%"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Cloudregh/Cloudregh/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+
+</div>
+
+<br/>
+
+## 🧭 What I'm Working Toward
+
+I'm deliberately moving up the stack, from using AI models to building them, currently working through the fundamentals of supervised learning, model evaluation, and deployment, with the goal of shipping an end-to-end ML project trained on Ghanaian agricultural data.
+
+If you're working on something at the intersection of web engineering and applied AI, I'd like to hear about it.
+
+<br/>
+
+## 📫 Let's Connect
+
+<div align="center">
+
+I'm always open to interesting projects, collabs, or just talking shop about design, code, and where AI is taking both.
+
+[![Email](https://img.shields.io/badge/Get%20in%20Touch-emmacloudre%40gmail.com-7928CA?style=for-the-badge&logo=gmail&logoColor=white)](mailto:emmacloudre@gmail.com)
+
+<img src="https://komarev.com/ghpvc/?username=Cloudregh&style=for-the-badge&color=blueviolet&label=Profile+Views" />
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
